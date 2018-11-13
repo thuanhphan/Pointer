@@ -1,3 +1,4 @@
+package thu;
 
 public class Point2d extends Point {
 	

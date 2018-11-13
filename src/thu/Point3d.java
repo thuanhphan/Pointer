@@ -1,3 +1,4 @@
+package thu;
 
 public class Point3d extends Point{
 	int z;

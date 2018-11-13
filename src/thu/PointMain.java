@@ -1,3 +1,4 @@
+package thu;
 
 public class PointMain {
 

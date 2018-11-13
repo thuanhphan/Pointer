@@ -1,3 +1,4 @@
+package thu;
 
 public abstract class Point implements PointInterface {
 	
